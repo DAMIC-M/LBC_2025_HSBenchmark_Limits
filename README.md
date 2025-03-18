@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2307.07251-b31b1b.svg)](https://arxiv.org/abs/2307.07251):
+[![arXiv](https://img.shields.io/badge/arXiv-2307.07251-b31b1b.svg)](https://arxiv.org/abs/2307.07251)
 
 [Just probing it is working, we should change that to the proper link of the paper)
 
