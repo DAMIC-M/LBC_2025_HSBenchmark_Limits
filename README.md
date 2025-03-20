@@ -1,11 +1,11 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2307.07251-b31b1b.svg)](https://arxiv.org/abs/2307.07251)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.14617-b31b1b.svg)](https://arxiv.org/abs/2503.14617)
 
 [Just probing it is working, we should change that to the proper link of the paper)
 
 # Hidden Sector Limits Repository (2025) CC BY 4.0
 Probing Benchmark Models of Hidden-Sector Dark Matter with DAMIC-M
 
-The 90% C.L. upper limits shown in Figs. 2 and 3 of [arXiv:XXXX](https://arxiv.org/abs/2307.07251-xx)
+The 90% C.L. upper limits shown in Figs. 2 and 3 of [arXiv:2503.14617](https://arxiv.org/abs/2503.14617)
 
 * DM-electron scattering via ultra-light mediator (QCDark): [DAMIC-M_2025_OFFICIALRESULT_QCDark_DMe_ulightmediator.txt](limits_release/DAMIC-M_2025_OFFICIALRESULT_QCDark_DMe_ulightmediator.txt)
 * DM-electron scattering via heavy mediator (QCDark): [DAMIC-M_2025_OFFICIALRESULT_QCDark_DMe_heavymediator.txt](limits_release/DAMIC-M_2025_OFFICIALRESULT_QCDark_DMe_heavymediator.txt)
