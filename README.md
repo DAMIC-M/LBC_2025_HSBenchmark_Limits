@@ -15,7 +15,8 @@ The 90% C.L. upper limits shown in Figs. 2 and 3 of [arXiv:2503.14617](https://a
 
 For comparison with previous limits we also provide:
 * DM-electron scattering via ultra-light mediator (QEDark): [DAMIC-M_2025_QEDark_DMe_ulightmediator.txt](limits_release/DAMIC-M_2025_QEDark_DMe_ulightmediator.txt)
+* DM-electron scattering via ultra-light mediator (EXCEED-DM): [DAMIC-M_2025_EXCEED-DM_DMe_ulightmediator.txt](limits_release/DAMIC-M_2025_EXDM_DMe_ulightmediator.txt)
 * DM-electron scattering via heavy mediator (QEDark): [DAMIC-M_2025_QEDark_DMe_heavymediator.txt](limits_release/DAMIC-M_2025_QEDark_DMe_heavymediator.txt)
-
+* DM-electron scattering via heavy mediator (EXCEED-DM): [DAMIC-M_2025_EXCEED-DM_DMe_heavymediator.txt](limits_release/DAMIC-M_2025_EXDM_DMe_heavymediator.txt)
 
 
